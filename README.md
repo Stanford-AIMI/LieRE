@@ -1,4 +1,4 @@
-Deprecated!!! We moved to [](https://github.com/StanfordMIMI/LieRE) . Please check newer versions and updates there. Thank you!
+## Deprecated!!! We moved to [https://github.com/StanfordMIMI/LieRE](https://github.com/StanfordMIMI/LieRE). Please check newer versions and updates there. Thank you!
 
 # 🔄 LieRE: Generalizing Rotary Position Encodings
 

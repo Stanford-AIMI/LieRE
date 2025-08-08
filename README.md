@@ -1,3 +1,5 @@
+Deprecated!!! We moved to [](https://github.com/StanfordMIMI/LieRE) . Please check newer versions and updates there. Thank you!
+
 # 🔄 LieRE: Generalizing Rotary Position Encodings
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.10322-b31b1b.svg)](https://arxiv.org/abs/2406.10322)
